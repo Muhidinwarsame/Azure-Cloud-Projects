@@ -18,7 +18,7 @@ Things I learned:
 Additionally -you can edit, reset password, revoke session, and delete.
 
 How to run:
--Sign up for Microsoft Azure subscription 
--Login azure Portal
--Navigate Azure Active directory
--Create a user.
+> Sign up for Microsoft Azure subscription 
+> Login azure Portal
+> Navigate Azure Active directory
+> Create a user.
