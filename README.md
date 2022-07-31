@@ -5,3 +5,5 @@
 
 
 [Azure Active Directory Note -Learn To Azure](https://eyecloudsolution.com/2022/07/30/azure-active-directory-note-learn-to-azure/)
+
+[Azure Virtual Network My Note](https://eyecloudsolution.com/2022/07/31/azure-virtual-network-my-note/)
